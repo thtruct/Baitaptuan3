@@ -1,0 +1,5 @@
+D:\NT106\21522722_Trần Thị Thanh Trúc\21522722_Trần Thị Thanh Trúc\obj\Debug\net6.0\21522722_Trần Thị Thanh Trúc.csproj.AssemblyReference.cache
+D:\NT106\21522722_Trần Thị Thanh Trúc\21522722_Trần Thị Thanh Trúc\obj\Debug\net6.0\21522722_Trần Thị Thanh Trúc.GeneratedMSBuildEditorConfig.editorconfig
+D:\NT106\21522722_Trần Thị Thanh Trúc\21522722_Trần Thị Thanh Trúc\obj\Debug\net6.0\21522722_Trần Thị Thanh Trúc.AssemblyInfoInputs.cache
+D:\NT106\21522722_Trần Thị Thanh Trúc\21522722_Trần Thị Thanh Trúc\obj\Debug\net6.0\21522722_Trần Thị Thanh Trúc.AssemblyInfo.cs
+D:\NT106\21522722_Trần Thị Thanh Trúc\21522722_Trần Thị Thanh Trúc\obj\Debug\net6.0\21522722_Trần Thị Thanh Trúc.csproj.CoreCompileInputs.cache
